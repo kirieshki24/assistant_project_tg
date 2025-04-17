@@ -1,3 +1,8 @@
+har_and_cookies/
+bot/har_and_cookies/
+llm-chatbot-assistant-453522-f1c87c05bf48.json
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
